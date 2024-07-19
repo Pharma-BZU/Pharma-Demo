@@ -8,9 +8,14 @@ Pharma is an Android app for managing pharmacy-related services. Users can creat
 
 ### Customer Functionalities
 1. **Create Account**  
-   ![Create Account](video-link)
+
+https://github.com/user-attachments/assets/9bd50f45-f5aa-4f5f-9f23-365edec9177f
+
 2. **Log In**  
-   ![Log In](video-link)
+   
+https://github.com/user-attachments/assets/56ccb58b-0179-43b5-9fd1-590c34d42be7
+
+
 3. **Search for a Pharmacy**  
    ![Search Pharmacy](video-link)
 4. **Pharmacies Nearby List**  
@@ -33,7 +38,9 @@ Pharma is an Android app for managing pharmacy-related services. Users can creat
    ![Confirm and Pay](video-link)
 13. **Choose Delivery Address/Pickup from Store**  
    ![Choose Delivery/Pickup](video-link)
-
+14. **Main Page**
+15. **All Orders Page**
+16. **Profile Page** d
 ### Pharmacist Functionalities
 1. **Log In**  
    ![Log In](video-link)
@@ -43,7 +50,7 @@ Pharma is an Android app for managing pharmacy-related services. Users can creat
    ![View Customer](video-link)
 4. **View All Orders for the Pharmacy**  
    ![View Orders](video-link)
-5. **Change Pharmacy Status in Chat**  
+5. **Change Pharmacy Status**  
    ![Change Status](video-link)
 
 ### Admin Functionalities
