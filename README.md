@@ -4,6 +4,40 @@ Made By:  <a href="https://github.com/dana-akesh">Dana Akesh</a>,  <a href="http
 ## Project Overview
 Pharma is an Android app for managing pharmacy-related services. Users can create accounts, search for pharmacies, chat with pharmacists, and make payments through various methods. The app also supports functionalities for pharmacists, admins, and deliverymen.
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+   * [Customer Features](#customer-features)
+     1. [Create Account](#create-account)
+     2. [Customer Log In](#customer-log-in)
+     3. [Search for a Pharmacy Manually](#search-for-a-pharmacy-manually)
+     4. [Pharmacies Nearby List](#pharmacies-nearby-list)
+     5. [Pharmacy Card (Contact/Direction API)](#pharmacy-card-contactdirection-api)
+     6. [Pharmacy Card for Unregistered Pharmacy](#pharmacy-card-for-unregistered-pharmacy)
+     7. [Chat With a Pharmacist](#chat-with-a-pharmacist)
+     8. [Send Prescription Photo](#send-prescription-photo)
+     9. [Add Funds to Wallet](#add-funds-to-wallet)
+     10. [Take Funds from Wallet](#take-funds-from-wallet)
+     11. [Pay Via Wallet (Add/Remove Funds)](#pay-via-wallet-addremove-funds)
+     12. [Pay with Credit](#pay-with-credit)
+     13. [Pay Cash on Delivery](#pay-cash-on-delivery)
+     14. [Customer Support Page](#customer-support-page)
+     15. [All Orders Page](#all-orders-page)
+     16. [Profile Page](#profile-page)
+   * [Pharmacist Functionalities](#pharmacist-functionalities)
+     1. [Create an Order with Chatted Customer](#create-an-order-with-chatted-customer)
+     2. [View Customer Profile](#view-customer-profile)
+     3. [Change Pharmacy Status](#change-pharmacy-status)
+     4. [Search For Customer Chat](#search-for-customer-chat)
+     5. [View All Orders and The Details](#view-all-orders-and-the-details)
+   * [Admin Functionalities](#admin-functionalities)
+     1. [Add New Pharmacy](#add-new-pharmacy)
+     2. [View All Pharmacies](#view-all-pharmacies)
+     3. [Add New Deliveryman](#add-new-deliveryman)
+     4. [View All Deliverymen](#view-all-deliverymen)
+   * [Deliveryman Functionalities](#deliveryman-functionalities)
+     1. [View Orders](#view-orders)
+
 ## Features
 ### Customer Features 
 <ol>
