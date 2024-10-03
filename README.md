@@ -1,5 +1,7 @@
 # Pharma
 Made By:  <a href="https://github.com/dana-akesh">Dana Akesh</a>,  <a href="https://github.com/nadeenmoreb02">Nadeen Moreb</a>, and <a href="https://github.com/HindSuleimanHussein"> Hind Suleiman Hussein </a>.
+<br>
+**note: this repository is for demo only.
 
 ## Project Overview
 Pharma is an Android app for managing pharmacy-related services. Users can create accounts, search for pharmacies, chat with pharmacists, and make payments through various methods. The app also supports functionalities for pharmacists, admins, and deliverymen.
@@ -11,6 +13,7 @@ Pharma is an Android app for managing pharmacy-related services. Users can creat
    * [Pharmacist Functionalities](#pharmacist-functionalities)
    * [Admin Functionalities](#admin-functionalities)
    * [Deliveryman Functionalities](#deliveryman-functionalities)
+
 
 ## Features
 ### Customer Features 
