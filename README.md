@@ -1,5 +1,5 @@
 # Pharma
-Made By:  <a href="https://github.com/dana-akesh">Dana Akesh</a>,  <a href="https://github.com/nadeenmoreb02">Nadeen Moreb</a>, and <a href="https://github.com/HindSuleimanHussein"> Hind Suleiman Hussein </a>.
+Made By:  <a href="https://github.com/dana-akesh">Dana Akesh</a>,  <a href="https://github.com/nadeenmoreb02">Nadeen Moreb</a>, and <a href="https://github.com/HindHussein"> Hind Hussein </a>.
 <br>
 **note: this repository is for demo only.
 
